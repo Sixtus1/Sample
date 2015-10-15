@@ -3,10 +3,10 @@ public class Sample{
 	Frame f;
 
 	public static void main(String args[]){
-		Sample.display();
+		Sample.displayz();
 	}
 
-	public statis void display(){
+	public statis void displayz(){
 		System.out.println("Hello, World");
 	}
 
