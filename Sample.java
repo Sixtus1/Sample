@@ -10,4 +10,10 @@ public class Sample{
 		System.out.println("Hello, World");
 	}
 
+	public class Innner{
+	
+		// Your task goodluck
+	
+	}
 }
+
