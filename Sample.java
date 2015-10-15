@@ -1,4 +1,6 @@
-public class Sample{
+import java.awt.*;
+public class Sample{	
+	Frame f;
 
 	public static void main(String args[]){
 		Sample.display();
